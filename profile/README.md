@@ -102,7 +102,7 @@ jaeyoung-leee" target="_blank">
 
 - UI/UX 와이어 프레임
    
-![Image](https://github.com/user-attachments/assets/a3008ba1-d292-4cf6-ba5a-7a999393481b)
+![Image](https://github.com/user-attachments/assets/d14de9ed-14bd-41bb-828d-a44e1e1d5f51)
 
 ---
 
