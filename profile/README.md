@@ -21,21 +21,21 @@
       <td align="center" style="padding: 20px;">
         <a href="https://github.com/
 jaeyoung-leee" target="_blank">
-          <img src="https://github.com/user-attachments/assets/91699b42-4f1d-428a-a0c0-e68ae29d70ed" width="120px" style="border-radius: 50%;" alt="이재영"/><br />
+          <img src="https://github.com/user-attachments/assets/6089b196-9d46-4328-b17e-9d1ccea21d7a" width="120px" style="border-radius: 50%;" alt="이재영"/><br />
           <h3 style="margin: 10px 0 5px; color: #007acc;">이재영</h3>
         </a>
           <p style="margin: 5px 0; font-size: 14px; color: #888;">AI</p>
       </td>
       <td align="center" style="padding: 20px;">
         <a href="https://github.com/Sirius912" target="_blank">
-          <img src="https://github.com/user-attachments/assets/a174f883-0f04-4875-b1bd-144d62150a05" width="120px" style="border-radius: 50%;" alt="강지은"/><br />
+          <img src="https://github.com/user-attachments/assets/a4535e6b-dbb1-4874-a896-f339c9c10ef4" width="120px" style="border-radius: 50%;" alt="강지은"/><br />
           <h3 style="margin: 10px 0 5px; color: #007acc;">강지은</h3>
         </a>
           <p style="margin: 5px 0; font-size: 14px; color: #888;">FE</p>
       </td>
       <td align="center" style="padding: 20px;">
         <a href="https://github.com/Korin23574" target="_blank">
-          <img src="https://github.com/user-attachments/assets/34d2b446-1a2e-4023-b528-a55c73897e56" width="120px" style="border-radius: 50%;" alt="정시훈"/><br />
+          <img src="https://github.com/user-attachments/assets/4b8906e2-d511-4f29-912f-7ffc7df34aeb" width="120px" style="border-radius: 50%;" alt="정시훈"/><br />
           <h3 style="margin: 10px 0 5px; color: #007acc;">정시훈</h3>
         </a>
           <p style="margin: 5px 0; font-size: 14px; color: #888;">FE</p>
