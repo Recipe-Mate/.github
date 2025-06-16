@@ -94,15 +94,15 @@ jaeyoung-leee" target="_blank">
 ## 4. 시스템 설계 및 개발
 - 시스템 아키텍처
   
-![Image](https://github.com/user-attachments/assets/3a0edc70-319f-42ba-b31e-45aba937c9d4)
+![Image](https://github.com/user-attachments/assets/1ff22a17-30b3-4a52-84c9-73a57f92c498)
 
 - ERD (데이터베이스 설계)
   
-![Image](https://github.com/user-attachments/assets/d03961dd-c929-4d28-93f5-efcc8c055bdc)
+![Image](https://github.com/user-attachments/assets/dfeee1a8-82ca-4441-a626-f5f0dc7bc3dc)
 
 - UI/UX 와이어 프레임
    
-![Image](https://github.com/user-attachments/assets/d14de9ed-14bd-41bb-828d-a44e1e1d5f51)
+![wireFrame](https://github.com/user-attachments/assets/d14de9ed-14bd-41bb-828d-a44e1e1d5f51)
 
 ---
 
