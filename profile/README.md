@@ -100,10 +100,6 @@ jaeyoung-leee" target="_blank">
   
 ![Image](https://github.com/user-attachments/assets/dfeee1a8-82ca-4441-a626-f5f0dc7bc3dc)
 
-- UI/UX 와이어 프레임
-   
-![wireFrame](https://github.com/user-attachments/assets/d14de9ed-14bd-41bb-828d-a44e1e1d5f51)
-
 ---
 
 ## 5. 구현 결과
